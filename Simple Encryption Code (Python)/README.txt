@@ -1,4 +1,4 @@
-important to know: when testing i recommend testing it via terminal so you can easily see the changes being made on the test files.
+important to know: when testing i recommend testing it via terminal so you can easily see the changes being made on the test files (linux terminal).
 
 this is a simple encryption-decryption code using Fernet from cryptography.
 
